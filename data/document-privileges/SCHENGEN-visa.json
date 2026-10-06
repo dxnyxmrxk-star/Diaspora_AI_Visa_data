@@ -1,0 +1,133 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "document": {
+    "type": "visa",
+    "country": "SCHENGEN",
+    "countryName": "Schengen Area",
+    "categories": [
+      "valid Schengen short-stay visa"
+    ],
+    "description": "Destinations with a documented entry exemption or simplified e-Visa route for eligible travelers holding a valid Schengen visa. Eligibility remains subject to nationality-specific rules and border admission."
+  },
+  "lastUpdated": "2026-10-06",
+  "totalUnlocked": 8,
+  "unlocks": [
+    {
+      "country": "AL",
+      "countryName": "Albania",
+      "region": "europe",
+      "conditions": "Visa-free entry for foreign nationals with a valid multiple-entry Schengen visa previously used in a Schengen Area country. Iranian nationals are excluded. The traveler must leave Albania at least 3 days before the visa expires.",
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://punetejashtme.gov.al/en/regjimi-i-vizave-per-te-huajt/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Ministry for Europe and Foreign Affairs > Visa regime for foreign citizens > VISA-FREE ENTRY INTO ALBANIA. Exact quote: “Foreign nationals holding a valid multiple-entry Schengen visa that has previously been used in a Schengen Area country... They must leave... no later than 3 (three) days before the expiry date... This exemption does not apply to Iranian nationals.”"
+    },
+    {
+      "country": "BA",
+      "countryName": "Bosnia and Herzegovina",
+      "region": "europe",
+      "conditions": "For nationals of countries subject to a BiH visa requirement: entry without a BiH visa requires a valid multiple-entry Schengen visa. The traveler must arrive from a Schengen state, an EU member state, or a country with an effective readmission agreement with BiH. The exemption is limited to the visa's validity; the 2017 amendment provides stays up to 30 days.",
+      "maxStayDays": 30,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://mvp.gov.ba/konzularne_informacije/sta_konzul_moze_uciniti_za_vas/Decision%20on%20Visas%20-%20Amendments%20-%2073_17.pdf",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Ministry of Foreign Affairs > Consular information > Decision on Visas and amendments, Article 17 (visa-free regime for possession of Schengen visa/residence permit). Exact quote in the official decision: holders must have a “valid multiple entry Schengen visa”; entry is conditioned on arriving from Schengen/EU/readmission-agreement countries. The amendment caps the stay at 30 days within the visa's validity."
+    },
+    {
+      "country": "ME",
+      "countryName": "Montenegro",
+      "region": "europe",
+      "conditions": "Holders of a valid Schengen visa may enter, transit and stay in Montenegro for up to 30 days, but not beyond the visa's expiry if it expires sooner.",
+      "maxStayDays": 30,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://www.gov.me/en/article/visas",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Government of Montenegro > Visas > visa regime for foreign nationals. Exact quote: “Holders of valid foreign travel documents with a valid Schengen visa ... may enter, transit through and stay in Montenegro for up to 30 days, and no longer than until the expiry of the visa” where it expires sooner."
+    },
+    {
+      "country": "MK",
+      "countryName": "North Macedonia",
+      "region": "europe",
+      "conditions": "Requires a valid multiple-entry Schengen type C visa that remains valid at least 5 days beyond the intended stay. Stay is limited to 15 days per entry and 90 days in any 180-day period.",
+      "maxStayDays": 15,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://mfa.gov.mk/en-GB/konzularni-uslugi/informacii-za-vlez-vo-rsm",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Ministry of Foreign Affairs and Foreign Trade > Consular Services > Visa requirements for entering North Macedonia. Exact quote: “Third-country nationals with multiple-entry Schengen visa (type C) valid for at least 5 (five) days beyond the intended stay ... may stay no longer than 15 (fifteen) days upon every entry ... [not exceeding] 90 days in any 180-day period.”"
+    },
+    {
+      "country": "RS",
+      "countryName": "Serbia",
+      "region": "europe",
+      "conditions": "Holders of any valid Schengen visa may enter, transit and stay without a separate Serbian visa for up to 90 days during a six-month period, but never beyond the Schengen visa's validity. Emergency travel documents and travel documents issued under international conventions are excluded.",
+      "maxStayDays": 90,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://mfa.gov.rs/en/citizens/travel-serbia/visa-requirements",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Ministry of Foreign Affairs > Travel to Serbia > Visa Requirements. Exact quote: holders of national passports “having a valid Schengen ... visa” may “enter, transit and stay ... up to 90 days during a six-month period, and within validity of said visas.”"
+    },
+    {
+      "country": "MD",
+      "countryName": "Moldova",
+      "region": "europe",
+      "conditions": "The visa-regime exception applies to nationals otherwise required to obtain a Moldovan visa who hold a valid visa issued by a Schengen state. Transit visas are excluded, and travel is allowed during the Schengen visa's validity.",
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://www.mfa.gov.md/en/content/visa-regime-foreigners",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Ministry of Foreign Affairs > Visa regime for foreigners > visa-required nationals (footnote 2). Exact quote: holders of valid visas “(excluding transit visas), issued by one of the Member States of the European Union or one of the States Parties to the Schengen Agreement ... may travel to the Republic of Moldova during their validity.”"
+    },
+    {
+      "country": "MX",
+      "countryName": "Mexico",
+      "region": "north-america",
+      "conditions": "Foreign nationals who otherwise need a Mexican visa may enter for tourism, transit or other non-remunerated visitor purposes without a Mexican visa if they hold a valid multiple-entry Schengen visa covering the intended stay. Admission remains subject to Mexican immigration authorities.",
+      "maxStayDays": 180,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://embamex.sre.gob.mx/suiza/index.php/seccion-consular/visas/english",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Embassy of Mexico in Switzerland > Consular Section > Visas > English. Exact quote: a Mexican visa is not required for tourism, transit or unpaid activity for stays under 180 days with a “valid and current multiple entry visa ... [from] Schengen countries.”"
+    },
+    {
+      "country": "TR",
+      "countryName": "Türkiye",
+      "region": "europe",
+      "conditions": "This is not visa-free entry. A Schengen visa can serve as a supporting document for a Turkish e-Visa application only when the traveler also meets all nationality-specific e-Visa criteria. The supporting visa must be valid on the date of entry; previously used or unused single-entry visas qualify if still valid.",
+      "visaOnArrival": false,
+      "evisaRequired": true,
+      "source": {
+        "url": "https://evisa.gov.tr/en/info/what-are-the-criteria-for-the-validity-of-my-supporting-document-visa-or-residence-permit-from-schengen-or-from-us-uk-and-ireland/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: official e-Visa portal > FAQ > supporting document validity criteria. Exact quote: “The only requirement for your visa/residence permit to be used as a supporting document is that it should be still valid ... by the time you enter Türkiye.” This does not itself grant an e-Visa or entry."
+    }
+  ]
+}
