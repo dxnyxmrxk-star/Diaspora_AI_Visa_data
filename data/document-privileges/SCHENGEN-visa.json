@@ -10,7 +10,7 @@
     "description": "Destinations with a documented entry exemption or simplified e-Visa route for eligible travelers holding a valid Schengen visa. Eligibility remains subject to nationality-specific rules and border admission."
   },
   "lastUpdated": "2026-10-06",
-  "totalUnlocked": 13,
+  "totalUnlocked": 14,
   "unlocks": [
     {
       "country": "AL",
@@ -203,6 +203,21 @@
         "confidence": "verified"
       },
       "notes": "Verification path: Embassy of the Philippines in New Delhi > Visa-free privileges for Indian nationals entering the Philippines. Policy effective 8 June 2025. The Embassy states Indian nationals holding a “valid and current American, Japanese, Australian, Canadian, Schengen, Singapore or United Kingdom (AJACSSUK) visa or residence permit” may enter visa-free for 30 days for tourism or business; separate passport-validity and onward-ticket conditions apply."
+    },
+    {
+      "country": "CO",
+      "countryName": "Colombia",
+      "region": "south-america",
+      "conditions": "Conditionally visa-exempt for short non-remunerated visits are nationals of Cambodia, India, Nicaragua, Myanmar, China, Thailand, Taiwan, and Vietnam who hold a current residence permit from a Schengen member state or a Schengen visa with at least 180 days of validity remaining on arrival. Colombian authorities decide the entry permission and authorized stay; short-stay activity is under 90 days and may be extendable up to 180 days under applicable rules.",
+      "maxStayDays": 90,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5488_2022.htm",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Ministry of Foreign Affairs, Legal Compilation > Resolution 5488 of 2022, Article 3 (C), as amended by Resolution 3717 of 2023. Article 3(3) defines short stay as under 90 days (extendable up to 180 days where permitted); current conditional-exemption list names Cambodia, India, Nicaragua, Myanmar, China, Thailand, Taiwan, and Vietnam and requires either valid Schengen-state residence or a Schengen visa with at least 180 days remaining at entry. Migración Colombia assigns the applicable entry permission and authorized duration."
     }
   ]
 }
