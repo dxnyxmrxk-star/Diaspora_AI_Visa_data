@@ -10,7 +10,7 @@
     "description": "Destinations with a documented entry exemption or simplified e-Visa route for eligible travelers holding a valid Schengen visa. Eligibility remains subject to nationality-specific rules and border admission."
   },
   "lastUpdated": "2026-10-06",
-  "totalUnlocked": 12,
+  "totalUnlocked": 13,
   "unlocks": [
     {
       "country": "AL",
@@ -178,16 +178,31 @@
       "country": "SA",
       "countryName": "Saudi Arabia",
       "region": "middle-east",
-      "conditions": "A valid tourist or business visa from a Schengen state can qualify its holder for Saudi tourist-visa facilitation if it has been used at least once to enter the issuing country. The Saudi tourist visa remains required; apply through the Saudi eVisa route or another permitted tourist-visa channel. The regulation's multiple-entry tourist visa permits up to 3 months' stay during its 1-year validity.",
+      "conditions": "A valid tourist or business visa from a Schengen state, used at least once to enter the issuing country, qualifies its holder for a Saudi tourist visa. Eligible travelers may apply for an instant eVisa in advance or obtain a visa on arrival. The multiple-entry tourist visa permits stays up to 90 days during its 1-year validity.",
       "maxStayDays": 90,
       "visaOnArrival": true,
-      "evisaRequired": true,
+      "evisaRequired": false,
       "source": {
         "url": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
         "accessedDate": "2026-10-06",
         "confidence": "verified"
       },
-      "notes": "Verification path: Saudi Ministry of Tourism > Tourist Visa Regulations, Articles 4 and 6 (PDF pp. 2–4); confirmed by Saudi Press Agency release “Ministry of Tourism Announces Streamlined Entry to Saudi Arabia for UK, US, and Schengen Tourism Visa Holders”. Exact quote: holder of a “valid Tourist or Business Visa - Schengen Agreement” and “It shall have been used at least once to enter the country granting the visa.” This is a tourist visa facilitation, not visa-free entry."
+      "notes": "Verification path: Saudi Ministry of Tourism > Tourist Visa Regulations, Articles 4 and 6; Saudi Press Agency announcement, “Ministry of Tourism Announces Streamlined Entry to Saudi Arabia for UK, US, and Schengen Tourism Visa Holders”; and the Saudi National Platform > Visa & Tourism. The official sources confirm the Schengen visa must be valid and used at least once, and that qualifying visitors may apply for an eVisa or obtain a tourist visa on arrival. This is visa facilitation, not visa-free entry."
+    },
+    {
+      "country": "PH",
+      "countryName": "Philippines",
+      "region": "asia",
+      "conditions": "For Indian passport holders traveling for tourism or business, a valid and current Schengen visa or residence permit (among listed AJACSSUK documents) qualifies for visa-free entry for up to 30 days. The stay is non-extendible and non-convertible. A passport valid at least 6 months beyond the intended stay and return/onward ticket are required; admission remains subject to Philippine immigration inspection.",
+      "maxStayDays": 30,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://newdelhipe.dfa.gov.ph/index.php/newsroom/embassy-news/1144-visa-free-privileges-for-indian-nationals-entering-the-philippines",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Embassy of the Philippines in New Delhi > Visa-free privileges for Indian nationals entering the Philippines. Policy effective 8 June 2025. The Embassy states Indian nationals holding a “valid and current American, Japanese, Australian, Canadian, Schengen, Singapore or United Kingdom (AJACSSUK) visa or residence permit” may enter visa-free for 30 days for tourism or business; separate passport-validity and onward-ticket conditions apply."
     }
   ]
 }
