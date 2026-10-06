@@ -10,7 +10,7 @@
     "description": "Destinations with a documented entry exemption or simplified e-Visa route for eligible travelers holding a valid Schengen visa. Eligibility remains subject to nationality-specific rules and border admission."
   },
   "lastUpdated": "2026-10-06",
-  "totalUnlocked": 14,
+  "totalUnlocked": 15,
   "unlocks": [
     {
       "country": "AL",
@@ -218,6 +218,21 @@
         "confidence": "verified"
       },
       "notes": "Verification path: Ministry of Foreign Affairs, Legal Compilation > Resolution 5488 of 2022, Article 3 (C), as amended by Resolution 3717 of 2023. Article 3(3) defines short stay as under 90 days (extendable up to 180 days where permitted); current conditional-exemption list names Cambodia, India, Nicaragua, Myanmar, China, Thailand, Taiwan, and Vietnam and requires either valid Schengen-state residence or a Schengen visa with at least 180 days remaining at entry. Migración Colombia assigns the applicable entry permission and authorized duration."
+    },
+    {
+      "country": "PE",
+      "countryName": "Peru",
+      "region": "south-america",
+      "conditions": "Nationals of India and China are exempt from a Peruvian tourist visa if they hold a Schengen visa valid for at least 6 months at entry or permanent residence in a Schengen state; their stay may total up to 180 days in a year. Moroccan nationals with valid ordinary passports are exempt if they hold a Schengen visa valid for at least 6 months at entry; their tourist stay may total up to 183 days in a year. Admission and the applicable stay authorization remain subject to Peruvian authorities.",
+      "maxStayDays": 183,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://www.gob.pe/institucion/rree/normas-legales/8433751-033-2026-re",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Ministry of Foreign Affairs > Supreme Decree No. 033-2026-RE (effective 60 days after publication on 25 July 2026; in force by this record's access date). The Decree exempts Moroccan ordinary-passport holders with a Schengen or US visa, requires both passport and qualifying visa to have at least six months' validity on entry, and allows up to 183 calendar days in a year. For Indian and Chinese nationals, the Ministry's current tourist visa procedure (https://www.gob.pe/en/36240-apply-for-a-tourist-visa-to-enter-peru?child=113898) states exemption with a Schengen visa valid at least six months or qualifying permanent residence, with a maximum 180 days per year."
     }
   ]
 }
