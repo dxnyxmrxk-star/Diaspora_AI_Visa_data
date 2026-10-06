@@ -10,7 +10,7 @@
     "description": "Destinations with a documented entry exemption or simplified e-Visa route for eligible travelers holding a valid Schengen visa. Eligibility remains subject to nationality-specific rules and border admission."
   },
   "lastUpdated": "2026-10-06",
-  "totalUnlocked": 9,
+  "totalUnlocked": 12,
   "unlocks": [
     {
       "country": "AL",
@@ -143,6 +143,51 @@
         "confidence": "verified"
       },
       "notes": "Verification path: Ministry of Foreign Affairs > Visitors > Entry visas > second-group exemption and full regulation text. Exact quote: second-group nationals need “a valid entry visa for one of the following countries ... Schengen Agreement countries”; visitors need a passport valid at least six months, return ticket, confirmed hotel reservation, health insurance and sufficient funds; stay is 14 days and cannot be extended."
+    },
+    {
+      "country": "GE",
+      "countryName": "Georgia",
+      "region": "europe",
+      "conditions": "Holders of a valid visa or residence permit issued by a country listed in Georgia's Government Ordinance No. 256 may enter visa-free for 90 calendar days in any 180-day period. Schengen member states are listed. The document must be valid on the date of crossing the Georgian border.",
+      "maxStayDays": 90,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://gc-pfiles.mfa.gov.ge/DocFiles/2025/5/13/LegalAct/37/de83b55e-be80-48ba-b05c-081d4848616d.pdf",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Government of Georgia Ordinance No. 256, annex of countries whose visas/residence permits permit visa-free entry; conditions, clauses 1–2 (PDF pp. 1–2). English translation of the official Georgian text: qualifying visa/residence-permit holders may enter for 90 calendar days in any 180-day period, and the document must be valid on the date of entry. The annex includes Schengen states."
+    },
+    {
+      "country": "XK",
+      "countryName": "Kosovo",
+      "region": "europe",
+      "conditions": "For nationals who otherwise need a Kosovo visa: a valid multiple-entry Schengen visa exempts the holder from a separate Kosovo visa for entry, transit or stay, for up to 15 days.",
+      "maxStayDays": 15,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://arkivi.mfa-ks.net/en/sherbimet_konsullore/505/kategorit-e-veanta-t-liruara-nga-viza/505.html",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Ministry of Foreign Affairs and Diaspora > Consular services > For foreign citizens > Special categories exempted from visa requirements. Exact quote: “Citizens of the countries which are required to obtain a visa for Kosovo but hold ... a valid multi-entry Schengen Visa are exempt ... for up to 15 days.” Kosovo is coded XK per this repository's country index."
+    },
+    {
+      "country": "SA",
+      "countryName": "Saudi Arabia",
+      "region": "middle-east",
+      "conditions": "A valid tourist or business visa from a Schengen state can qualify its holder for Saudi tourist-visa facilitation if it has been used at least once to enter the issuing country. The Saudi tourist visa remains required; apply through the Saudi eVisa route or another permitted tourist-visa channel. The regulation's multiple-entry tourist visa permits up to 3 months' stay during its 1-year validity.",
+      "maxStayDays": 90,
+      "visaOnArrival": true,
+      "evisaRequired": true,
+      "source": {
+        "url": "https://cdn.mt.gov.sa/mtportal/mt-fe-production/content/policies-regulations/documents/tourism-regulations/Tourist-Visa-Regulations-En-V012.pdf",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Saudi Ministry of Tourism > Tourist Visa Regulations, Articles 4 and 6 (PDF pp. 2–4); confirmed by Saudi Press Agency release “Ministry of Tourism Announces Streamlined Entry to Saudi Arabia for UK, US, and Schengen Tourism Visa Holders”. Exact quote: holder of a “valid Tourist or Business Visa - Schengen Agreement” and “It shall have been used at least once to enter the country granting the visa.” This is a tourist visa facilitation, not visa-free entry."
     }
   ]
 }
