@@ -10,7 +10,7 @@
     "description": "Destinations with a documented entry exemption or simplified e-Visa route for eligible travelers holding a valid Schengen visa. Eligibility remains subject to nationality-specific rules and border admission."
   },
   "lastUpdated": "2026-10-06",
-  "totalUnlocked": 8,
+  "totalUnlocked": 9,
   "unlocks": [
     {
       "country": "AL",
@@ -128,6 +128,21 @@
         "confidence": "verified"
       },
       "notes": "Verification path: official e-Visa portal > FAQ > supporting document validity criteria. Exact quote: “The only requirement for your visa/residence permit to be used as a supporting document is that it should be still valid ... by the time you enter Türkiye.” This does not itself grant an e-Visa or entry."
+    },
+    {
+      "country": "OM",
+      "countryName": "Oman",
+      "region": "middle-east",
+      "conditions": "For nationals in Oman's second group of countries (including India, Mexico, Morocco, Panama and others), visa-free entry for up to 14 days requires a valid entry visa from a Schengen country or qualifying residence status. All travelers need a passport valid at least 6 months, return ticket, confirmed hotel booking, health insurance and sufficient funds. The 14-day stay cannot be extended. Spouses and children may benefit even if they are not nationals of the listed country.",
+      "maxStayDays": 14,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "source": {
+        "url": "https://www.fm.gov.om/en/visitors/entry-visas/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Verification path: Ministry of Foreign Affairs > Visitors > Entry visas > second-group exemption and full regulation text. Exact quote: second-group nationals need “a valid entry visa for one of the following countries ... Schengen Agreement countries”; visitors need a passport valid at least six months, return ticket, confirmed hotel reservation, health insurance and sufficient funds; stay is 14 days and cannot be extended."
     }
   ]
 }
